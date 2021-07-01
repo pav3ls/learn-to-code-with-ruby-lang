@@ -1,6 +1,8 @@
-puts "Hello"
-puts "world"
+# frozen_string_literal: true
 
-print "Hello "
-print " "
-print "world"
+puts 'Hello'
+puts 'world'
+
+print 'Hello '
+print ' '
+print 'world'
